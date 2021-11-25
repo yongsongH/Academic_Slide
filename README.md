@@ -1,4 +1,4 @@
-# Academic Poster :blush: 
+# Academic Poster 
   Image super-resolution related banner. :bell:[Yongsong HUANG's Homepage](https://hyongsong.work/) :pushpin:
   * [Infrared Image Super-Resolution via Transfer Learning and PSRGAN](https://ieeexplore.ieee.org/abstract/document/9424970 "https://ieeexplore.ieee.org/abstract/document/9424970")
     | [Slide](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf)
