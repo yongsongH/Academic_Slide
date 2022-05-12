@@ -1,5 +1,5 @@
 # Academic Poster 
-  Image super-resolution related banner. :bell:[Yongsong HUANG's Homepage](https://hyongsong.work/) :pushpin:
+  Image super-resolution related slides. :bell:[Yongsong HUANG's Homepage](https://hyongsong.work/) :pushpin:
   * [Infrared Image Super-Resolution via Transfer Learning and PSRGAN](https://ieeexplore.ieee.org/abstract/document/9424970 "https://ieeexplore.ieee.org/abstract/document/9424970")
     | [Slide](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf)
   * [Infrared Image Super-Resolution via Heterogeneous Convolutional WGAN](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35"https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35")
